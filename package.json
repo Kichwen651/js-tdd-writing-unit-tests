@@ -18,5 +18,8 @@
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
+  },
+  "dependencies": {
+    "source-map": "^0.7.4"
   }
 }
